@@ -23,4 +23,12 @@ ISTQB
 
 # Skills
 
+```mermaid
+graph RD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## Tools
