@@ -1,8 +1,3 @@
----
-title: HOME PAGE
-layout: template
---- 
-
 Go to [about page](about.md)
 
 # Summary 
