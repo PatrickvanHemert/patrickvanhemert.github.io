@@ -51,4 +51,7 @@ jobs:
         uses: actions/deploy-pages@v4
       - name: check
         id: check2
-        uses: jeffreytse/jekyll-deploy-action@v0.7.0  
+        uses: jeffreytse/jekyll-deploy-action@v0.7.0 
+        with:
+          provider: github
+          token: ${{ secrets.GITHUB_TOKEN }} 
