@@ -1,4 +1,5 @@
 name: My Site
 theme: minima
 remote_theme: pages-themes/primer@v0.6.0
-plugins: jekyll-remote-theme
+plugins: 
+  - jekyll-remote-theme
