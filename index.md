@@ -8,7 +8,7 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 
 # Experience
 
-## Systems Engineer at [MicroSure](https://microsure.nl/)**
+## [Systems Engineer](https://en.wikipedia.org/wiki/Systems_engineering) at [MicroSure](https://microsure.nl/)**
 
 ### Project description
 - Development of system that stabilizes and downscales surgeon hand movements during microsurgery, integrating seamlessly into the clinical workflow;
@@ -45,8 +45,10 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 # Education
 
 <details>
-<summary> # Certifications </summary>
-ISTQB
+<summary> Certifications </summary>
+| Certification | Institute | Year | 
+| ------------- | --------- | ---- |
+| Certified Tester, Foundation | ISQB | 2018 | 
 
 </details>
 
