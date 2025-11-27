@@ -44,14 +44,11 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 
 # Education
 
-<details>
-<summary> Certifications </summary>
+## Certifications
 
 Certification | Institute | Year  
 ------------- | --------- | ---- 
 Certified Tester, Foundation | ISQB | 2018 
-
-</details>
 
 # Skills
 
