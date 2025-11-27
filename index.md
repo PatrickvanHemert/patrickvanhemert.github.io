@@ -9,9 +9,7 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 # Experience
 
 <details>
-**Systems Engineer at [MicroSure](https://microsure.nl/)**
-<summary>
-Projectomschrijving:
+*Projectomschrijving:
 • Development of system that stabilizes and downscales surgeon hand movements during microsurgery, integrating seamlessly into the clinical workflow;
 • Fast-paced start-up environment utilizing a flexible, pragmatic team-oriented approach demanding a proactive and structured way of working;
 •  Support structured approach to enable cohesive, traceable, integrated and well-documented architecture and design of the system and subsystems;
@@ -32,8 +30,10 @@ Tools en methoden:
 • Requirement management practices; 
 • Written and spoken communication in English; 
 • Medical device standards: ISO 13485, ISO 14971, IEC 62304, IEC 62366, IEC,  60601, IEC 80601.
+<summary>
+**Systems Engineer at [MicroSure](https://microsure.nl/)**
 </summary>
-
+</details>
 
 **Bosch**
 
