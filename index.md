@@ -8,9 +8,12 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 
 # Experience
 
-**Microsure**
+**MicroSure**
+
 **Bosch**
+
 **Coorstek**
+
 **TATA Steel Europe**
 
 # Education
