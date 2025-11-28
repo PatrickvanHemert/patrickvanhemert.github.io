@@ -8,7 +8,7 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 
 # Experience
 
-## [Systems Engineer](https://en.wikipedia.org/wiki/Systems_engineering) at [MicroSure](https://microsure.nl/)**
+## [Systems Engineer](https://en.wikipedia.org/wiki/Systems_engineering) at [MicroSure](https://microsure.nl/)
 
 ### Project description
 - Development of system that stabilizes and downscales surgeon hand movements during microsurgery, integrating seamlessly into the clinical workflow;
@@ -36,7 +36,8 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 - Written and spoken communication in English; 
 - Medical device standards: ISO 13485, ISO 14971, IEC 62304, IEC 62366, IEC,  60601, IEC 80601.
 
-## Test Engineer at Bosch
+## [Test Engineer](https://en.wikipedia.org/wiki/Test_engineer) at [Bosch](https://www.boschbuildingsolutions.com/xc/en/) [DICENTIS Conference System](https://www.keenfinity-group.com/xc/en/solutions/conference-solutions/ip-based-conferencing/)
+
 
 ## Manufacturing Engineer at Coorstek
 
@@ -48,7 +49,7 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 
 Certification | Institute | Year  
 ------------- | --------- | ---- 
-Certified Tester, Foundation | ISQB | 2018 
+Certified Tester, Foundation | ISTQB | 2018 
 
 # Skills
 
