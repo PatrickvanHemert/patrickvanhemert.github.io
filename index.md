@@ -1,4 +1,5 @@
 Go to [about page](about.md)
+Go to [Sample](BasicHTMLSamplePage.html)
 
 # Summary 
 
