@@ -4,19 +4,25 @@
 <BODY BGCOLOR="WHITE">
 <CENTER>
 <H1>A Simple Sample Web Page</H1>
-
  
-
   <IMG SRC="https://www.sheldonbrown.com/images/scb_eagle_contact.jpeg">
-
- 
-
- 
 
   <H4>By Sheldon Brown</H4>
 
 <H2>Demonstrating a few HTML features</H2>
 
+ <body>
+    <pre class="mermaid">
+  graph LR
+      A --- B
+      B-->C[fa:fa-ban forbidden]
+      B-->D(fa:fa-spinner);
+    </pre>
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    </script>
+  </body>
+ 
 </CENTER>
 
 HTML is really a very simple language. It consists of ordinary text, with commands that are enclosed by "<" and ">" characters, or bewteen an "&" and a ";". <P>
