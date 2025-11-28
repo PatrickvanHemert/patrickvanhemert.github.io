@@ -39,9 +39,9 @@ Patrick van Hemert[^1] is a technically skilled and analytically driven professi
 ## [Test Engineer](https://en.wikipedia.org/wiki/Test_engineer) at [Bosch](https://www.boschbuildingsolutions.com/xc/en/) [DICENTIS Conference System](https://www.keenfinity-group.com/xc/en/solutions/conference-solutions/ip-based-conferencing/)
 
 
-## Manufacturing Engineer at Coorstek
+## Engineer at [Coorstek](https://www.coorstek.com/)
 
-## Refractory Engineering Specialist at TATA Steel Europe
+## [Refractory](https://en.wikipedia.org/wiki/Refractory) Engineering Specialist at [TATA Steel IJmuiden](https://www.tatasteelnederland.com/en/about-tata-steel/tata-steel-ijmuiden)
 
 # Education
 
