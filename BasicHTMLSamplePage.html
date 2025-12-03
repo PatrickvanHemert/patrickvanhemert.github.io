@@ -1,22 +1,17 @@
 <HEAD>
-<TITLE>Basic HTML Sample Page</TITLE>
+<TITLE>Systems Engineering 101</TITLE>
 </HEAD>
-<BODY BGCOLOR="WHITE">
+<BODY BGCOLOR="GRAY">
 <CENTER>
-<H1>A Simple Sample Web Page</H1>
- 
-  <IMG SRC="https://www.sheldonbrown.com/images/scb_eagle_contact.jpeg">
+<H1>Systems Engineering 101</H1>   
 
-  <H4>By Sheldon Brown</H4>
-
-<H2>Demonstrating a few HTML features</H2>
+<H2>Synopsis through flowchart</H2>
 
  <body>
     <pre class="mermaid">
-  graph LR
-      A --- B
-      B-->C[fa:fa-ban forbidden]
-      B-->D(fa:fa-spinner);
+  flowchart TD
+      a ("'Assess the problem you are trying to solve'") <--> b {{"'Assess the problem you are trying to solve'"}}
+      b <--> c {"'Capture'"}      
     </pre>
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
