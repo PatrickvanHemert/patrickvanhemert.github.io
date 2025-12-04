@@ -8,7 +8,10 @@ nav:
     url: /
   - title: ReadMe
     url: /readme/
+ - title: SysEngAss
+    url: /SysEngAss/
   - title: Bibliography
     url: /Bibliography/
   - title: BasicHTMLSamplePage
     url: /BasicHTMLSamplePage/
+
